@@ -1,8 +1,8 @@
 # MAD Practical 8 - Hello World iOS App in SwiftUI
 
 **Course:** 2CEIT5PE18: Mobile Application Development (MAD)  
-**Submitted By:** Nihal Shah  
-**Enrollment Number:** 24012011175  
+**Submitted By:** Preet Patel 
+**Enrollment Number:** 24012011119 
 
 ---
 
